@@ -6,7 +6,7 @@
 Summary:	Use GHC call-stacks in a backward compatible way
 Name:		ghc-%{pkgname}
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/call-stack
